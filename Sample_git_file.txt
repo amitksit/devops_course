@@ -1,3 +1,2 @@
 This is a test git file.
 
-This is 2nd line.
